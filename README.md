@@ -1,2 +1,2 @@
 # Structure
-This project was an introduction to structures in C and well as using pointers to acess the different fields of these structures
+This project served as an introduction to C structures and pointers, providing hands-on experience in accessing different fields within these structures.
